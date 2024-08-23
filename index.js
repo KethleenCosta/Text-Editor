@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "JavaScript Text Editor" de AsmrProg no YouTube. 
+
 let optionsButtons = document.querySelectorAll(".option-button");
 let advancedOptionButton = document.querySelectorAll(".adv-option-button");
 let fontName = document.getElementById("fontName");
